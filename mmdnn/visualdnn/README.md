@@ -12,3 +12,6 @@ then,
 
 then, open another terminal, run 
 > $ npm start
+
+
+guochongtest
