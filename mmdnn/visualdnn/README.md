@@ -14,4 +14,4 @@ then, open another terminal, run
 > $ npm start
 
 
-guochongtest
+use new floder visualprogramme
